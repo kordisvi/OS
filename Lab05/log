@@ -1,0 +1,69 @@
+/home/kordisvi/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+  File: hey
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 411084      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1334/kordisvi)   Gid: ( 1336/kordisvi)
+Access: 2024-12-19 13:05:04.662610437 +0200
+Modify: 2024-12-19 13:05:04.662610437 +0200
+Change: 2024-12-19 13:05:04.662610437 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+cat: file.txt: No such file or directory
+file.txt: No such file or directory
+head: cannot open 'file.txt' for reading: No such file or directory
+tail: cannot open 'file.txt' for reading: No such file or directory
+tar: directory: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: directory: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+tar: Lab05: Cannot stat: No such file or directory
+tar: Exiting with failure status due to previous errors
+./
+./example2.c
+./example4.c
+./empty_directory/
+./pattern
+./source.txt
+./oldname.txt
+./file.txt
+./example5.c
+./hey/
+./newname.txt
+./directory_to_delete/
+./example3.c
+tar: ./archive.tar: file is the archive; not dumped
+./archive.tar.gz
+./example1.c
+./
+./example2.c
+./example4.c
+./empty_directory/
+./pattern
+./source.txt
+./oldname.txt
+./file.txt
+./example5.c
+./hey/
+./newname.txt
+./directory_to_delete/
+./example3.c
+./archive.tar
+./archive.tar.gz
+./example1.c
+./example6.c
+./log
+./file_to_delete
+./destination.txt
